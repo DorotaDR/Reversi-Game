@@ -1,4 +1,4 @@
-# PROJEKT REVERSI 
+﻿# PROJEKT REVERSI 
 ##### INPG, 1.06.2017 
 
 
@@ -9,4 +9,4 @@ W folderze _Game_vol5-terminal_ umieszczono kody gry, natomiast aplikacja znajdu
 W folderze _Game_vol6-SFML->bin->Debug_ znajdująsię tekstury użyte w aplikacji. 
 
 Okno gry: 
-![GitHub Logo](/images/logo.png)
+![ReversiGame](/images/ReversiScreen.png)
