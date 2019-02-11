@@ -1,0 +1,24 @@
+PLANSZA
+
+        
+        
+  BC    
+   BC   
+   CB   
+        
+        
+        
+
+
+KOLOR
+
+C
+
+TRYB
+
+0
+
+GRACZ
+
+0
+
